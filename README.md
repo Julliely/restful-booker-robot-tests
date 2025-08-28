@@ -5,7 +5,7 @@ Este projeto contém **testes automatizados de API** para a [API Restful-Booker]
 ---
 
 ## 📂 Estrutura do projeto
-
+```
 restful-booker-tests/
 ├── resources/
 │ └── keywords.resource # Keywords reutilizáveis (sessão, auth, CRUD)
@@ -13,9 +13,8 @@ restful-booker-tests/
 │ └── booking_tests.robot # Casos de teste principais
 ├── .gitignore
 └── README.md
+```
 
-
----
 
 ## 🚀 Pré-requisitos
 
